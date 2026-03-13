@@ -1,4 +1,4 @@
-#Menstrual Cycle Prediction System
+Menstrual Cycle Prediction System
 A machine learning system that predicts ovulation date, next period date, and fertile window using menstrual cycle data and biological rules.
 
 This project demonstrates how machine learning combined with reproductive biology can estimate menstrual cycle events.
